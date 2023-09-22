@@ -1,0 +1,46 @@
+.main-slider{
+    background-image: url("slider-2.jpg");
+    width: 100%;
+    background-size: cover;
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    
+}
+.more-items .container .row .col-lg-4 .card{
+    width: 350px;
+    box-shadow: rgb(0 0 0 / 25%) 0px 1px 0px 0px;
+    background-color: white;
+    border-radius: 4px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 1400px){
+    .container{
+        max-width: 1140px !important;
+    }
+}
